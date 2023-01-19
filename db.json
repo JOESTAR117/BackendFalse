@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "name": "Joestar News",
+      "budget": "20000",
+      "category": {
+        "id": "3",
+        "name": "Designer"
+      },
+      "cost": 10000,
+      "services": [
+        {
+          "name": "Grupo de designer",
+          "cost": "10000",
+          "description": "Profissionais para fazer o serviço UX/UI do jornal",
+          "id": "84198db7-6ebb-444a-81d8-8bfcd8ec9400"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Campo de futebol",
+      "budget": "100000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 33331,
+      "services": [
+        {
+          "name": "gramado sintetico",
+          "cost": "29998",
+          "description": "Campo europeu ",
+          "id": "17d578e2-7f79-423d-93a9-70561e107d06"
+        },
+        {
+          "name": "as",
+          "cost": "3333",
+          "description": "dd",
+          "id": "4824deee-7e4f-497c-94ac-031460d69c93"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Designer"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
